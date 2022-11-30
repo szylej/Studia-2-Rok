@@ -1,0 +1,5 @@
+program
+myszka
+gra
+komputer
+klawiatura
